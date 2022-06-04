@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-HW2_API",
+      "appliesTo": "Week2-Assignment-HW2/HW2_API/",
+      "type": "launch"
+    }
+  ]
+}
